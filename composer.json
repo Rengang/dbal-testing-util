@@ -1,5 +1,5 @@
 {
-    "name": "dbal-util/dbal-testing-util",
+    "name": "doctrine-dbal-util/dbal-testing-util",
     "type": "library",
     "description": "Utilities to build tests using doctrine/dbal connection",
     "keywords": ["dbal", "database", "persistence", "test", "snowyowl"],
