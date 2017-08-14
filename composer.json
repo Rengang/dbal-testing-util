@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Utilities to build tests using doctrine/dbal connection",
     "keywords": ["dbal", "database", "persistence", "test", "snowyowl"],
-    "homepage": "https://github.com/dbal-util/dbal-testing-util",
+    "homepage": "https://github.com/doctrine-dbal-util/dbal-testing-util",
     "license": "MIT",
     "authors": [
         {"name": "Jean-Bernard Addor"},
@@ -20,7 +20,7 @@
     "suggest": {
     },
     "autoload": {
-        "psr-4": { "DbalUtil\\DbalTestingUtil\\": "" }
+        "psr-4": { "DoctrineDbalUtil\\DbalTestingUtil\\": "" }
     },
     "extra": {
         "branch-alias": {
