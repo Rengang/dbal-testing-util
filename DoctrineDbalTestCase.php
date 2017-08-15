@@ -3,7 +3,7 @@
 // As the original file was hard use at its original place,
 // because it was in a hidden namespace, it has been copyed unchanged!
 
-namespace DbalUtil\DbalTestingUtil;
+namespace DoctrineDbalUtil\DbalTestingUtil;
 
 use Doctrine\DBAL\DriverManager;
 use Doctrine\DBAL\Query\QueryBuilder;
