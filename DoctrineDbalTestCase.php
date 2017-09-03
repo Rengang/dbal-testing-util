@@ -8,8 +8,9 @@ namespace DoctrineDbalUtil\DbalTestingUtil;
 use Doctrine\DBAL\DriverManager;
 use Doctrine\DBAL\Query\QueryBuilder;
 use Doctrine\DBAL\Schema\Schema;
+use PHPUnit\Framework\TestCase;
 
-abstract class DoctrineDbalTestCase extends \PHPUnit_Framework_TestCase
+abstract class DoctrineDbalTestCase extends TestCase
 {
     /**
      * @var QueryBuilder
