@@ -1,6 +1,6 @@
 # dbal-testing-util
 Utilities to build tests using dbal connection
-Doctrine DBAL Adapters for Pagerfanta
+
 [![PHPPackages Rank](https://phppackages.org/p/doctrine-dbal-util/dbal-testing-util/badge/rank.svg)](https://phppackages.org/p/doctrine-dbal-util/dbal-testing-util)
 [![Monthly Downloads](https://poser.pugx.org/doctrine-dbal-util/dbal-testing-util/d/monthly)](https://packagist.org/packages/doctrine-dbal-util/dbal-testing-util)
 <!---
